@@ -88,3 +88,15 @@ a {
     width: 50%;
   }
 }
+
+@media screen {
+  body {
+    color: green;
+  }
+}
+
+@media print {
+  body {
+    color: black;
+  }
+}
